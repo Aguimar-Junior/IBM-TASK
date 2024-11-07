@@ -1,6 +1,6 @@
 O Aplicativo utiliza Expo, para inicializar o ambiente deve estar devidamente configurado. Após realizar a configuração rodar no terminal "npm run web", e escanear o Qrcode no app do Expo no dispositivo pessoal.
 
-https://docs.expo.dev/
+Documentação do Expo: https://docs.expo.dev/
 
 ![Captura de tela 2024-11-07 150545](https://github.com/user-attachments/assets/a0ec954c-26b9-4a97-b5da-330ca9a9d435)
 ![Captura de tela 2024-11-07 150619](https://github.com/user-attachments/assets/37b171a2-6046-4720-83fb-a2a612ec6298)
