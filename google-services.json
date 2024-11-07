@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "405240315899",
+    "project_id": "ibm-task-8d07c",
+    "storage_bucket": "ibm-task-8d07c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405240315899:android:b483483ef70ac1b6dd955e",
+        "android_client_info": {
+          "package_name": "desafio.task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhbD4TnIRPb-CAT_nMLk5LrHB4ATzqKpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
