@@ -1,4 +1,4 @@
-O Aplicativo utiliza Expo, para inicializar o ambiente deve estar devidamente configurado. Após realizar a configuração rodar no terminal "npm run web", e escanear o Qrcode no app do Expo no dispositivo pessoal.
+O Aplicativo utiliza Expo, para inicializar o ambiente deve estar devidamente configurado. Após realizar a configuração rodar no terminal "npm run web", e escanear o Qrcode no app do Expo no dispositivo pessoal. O App também ultiliza firebase Auth para criação/autenticação de usuário e o Realtime Database para guardar as tasks vinculadas aos usuários.
 
 Documentação do Expo: https://docs.expo.dev/
 
